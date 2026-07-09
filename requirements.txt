@@ -1,0 +1,9 @@
+# Pinned for reproducibility (JAX 0.4-era stack; Flax 0.10+ needs JAX >= 0.5).
+numpy>=1.26,<2.1
+scipy>=1.11
+jax[cpu]==0.4.31
+jaxlib==0.4.31
+flax==0.8.5
+optax>=0.2.3,<0.3
+folx>=0.2.9
+pytest>=8.0
