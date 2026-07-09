@@ -35,7 +35,7 @@ This is research code accompanying a methodology paper in preparation. Author:
 
 ## Validation
 
-The test suite (`pytest`, 60+ tests) is built around exact oracles rather than "it trains":
+The test suite (`pytest`, 55 tests) is built around exact oracles rather than "it trains":
 
 - **Zero-variance certificates**: on analytic eigenstates the local energy equals the exact
   eigenvalue at *every* sampled configuration, to machine precision
