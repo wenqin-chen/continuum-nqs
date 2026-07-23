@@ -12,7 +12,9 @@ wavefunction here is **periodic, complex-valued, and spinful**. The network is o
 variational Monte Carlo with natural-gradient
 ([MinSR](https://www.nature.com/articles/s41567-024-02566-1)) updates.
 
-This is research code accompanying a methodology paper in preparation. Author:
+This is research code accompanying a methodology paper in preparation: a curated public
+release of the solver module from a larger private research repository, with a squashed
+history. Campaign drivers and result datasets are withheld pending publication. Author:
 [Wenqin Chen](https://wenqin-chen.github.io/).
 
 ## Architecture
